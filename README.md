@@ -81,7 +81,7 @@ Top Job Roles
 ### User Input
 
 ```
-My skills are Python, SQL, Machine Learning, Communication and Problem Solving.
+My skills are Python, SQL, Machine Learning, Communication and Problem Solving.Suggest the best jobs for me with expected salary.
 ```
 
 ### AI Recommendation
@@ -98,36 +98,36 @@ My skills are Python, SQL, Machine Learning, Communication and Problem Solving.
 
 ### Project Dashboard
 
-![Project Dashboard](<img width="1763" height="955" alt="project_dashboard" src="https://github.com/user-attachments/assets/8288d12a-7263-4ff8-b828-ce8e18575325" />
-)
+![Project Dashboard]<img width="1763" height="955" alt="project_dashboard" src="https://github.com/user-attachments/assets/8288d12a-7263-4ff8-b828-ce8e18575325" />
+
 
 ---
 
 ### Agent Configuration
 
-![Agent Configuration](<img width="1763" height="955" alt="Agent_Preview_And_Configuration" src="https://github.com/user-attachments/assets/a2d50dd5-dc39-4828-9d97-e779d8262d85" />
-)
+![Agent Configuration]<img width="1763" height="955" alt="Agent_Preview_And_Configuration" src="https://github.com/user-attachments/assets/a2d50dd5-dc39-4828-9d97-e779d8262d85" />
+
 
 ---
 
 ### Deployment Status
 
-![Deployment](<img width="1763" height="955" alt="deployment_online" src="https://github.com/user-attachments/assets/dcfdcc44-7076-4afb-9c2b-e7e0be4d14c8" />
-)
+![Deployment]<img width="1763" height="955" alt="deployment_online" src="https://github.com/user-attachments/assets/dcfdcc44-7076-4afb-9c2b-e7e0be4d14c8" />
+
 
 ---
 
 ### Career Recommendation
 
-![Prediction](<img width="1763" height="955" alt="Career_Pilot_AI_Job_ Prediction_Preview_And_Execution_Successful" src="https://github.com/user-attachments/assets/9bc84507-2460-49c1-84b8-962998a42c6e" />
-)
+![Prediction]<img width="1763" height="955" alt="Career_Pilot_AI_Job_ Prediction_Preview_And_Execution_Successful" src="https://github.com/user-attachments/assets/9bc84507-2460-49c1-84b8-962998a42c6e" />
+
 
 ---
 
 ### API Test Results
 
-![API Test](<img width="1763" height="955" alt="Career_Pilot_AI_API_Test_Results" src="https://github.com/user-attachments/assets/7a01b4b8-f43a-4de9-bbf5-3075ab86731c" />
-)
+![API Test]<img width="1763" height="955" alt="Career_Pilot_AI_API_Test_Results" src="https://github.com/user-attachments/assets/7a01b4b8-f43a-4de9-bbf5-3075ab86731c" />
+
 
 ---
 
